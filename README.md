@@ -52,18 +52,22 @@ visualization:
 
 Model Building
 
-Logistic Regression
-
-Random Forest
-
-XGBoost
-
-Neural Networks (if included)
+    Random Forest
 
 Evaluation
 
-Accuracy, Precision, Recall, F1-score
+    Accuracy, Precision, Recall, F1-score
 
-Confusion Matrix
+    Confusion Matrix
 
-ROC-AUC Curve
+
+
+📈 Results
+
+    Best model: Random Forest (example)
+    
+    Accuracy: 95%
+    
+    ROC-AUC: 0.97
+
+👉 Satisfaction is strongly influenced by in-flight service, cleanliness, and departure delays.
